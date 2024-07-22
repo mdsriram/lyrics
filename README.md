@@ -3,8 +3,8 @@ This script retrieves lyrics for a specific song by a given artist using the Gen
 
 ## requirements.txt
 Install the prerequisites
-Python
-lyricsgenius
+- Python
+- lyricsgenius
 
 ## Prerequisite
 Download and Install Latest version of Python on your system and dowload as per your OS 
