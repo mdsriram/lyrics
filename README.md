@@ -2,7 +2,7 @@
 This script retrieves lyrics for a specific song by a given artist using the Genius API. 
 
 ## requirements.txt
-- Install the prerequisites
+Install the prerequisites
 Python
 lyricsgenius
 
